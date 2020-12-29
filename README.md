@@ -1,7 +1,7 @@
 # Tweet directly from the terminal with Python
 
 
-**Warning to all programmers - LOOKING AT MY CODE IS AT YOUR OWN RISK. MAY CAUSE 3D10 PSYCHICAL DAMAGE, STOMACH ACHE, PHYSICAL SICKNESS AND SEVERE HEAD TRAUMA**
+**Warning to all programmers - LOOKING AT MY CODE IS AT YOUR OWN RISK. MAY CAUSE 3D10 PSYCHIC DAMAGE, STOMACH ACHE, PHYSICAL SICKNESS AND SEVERE HEAD TRAUMA**
 
 This is a very simple Python code that, using the package tweepy, allows you to connect to Twitter API and tweet directly from the terminal. It also states name of your machine and processor architecture - its used mainly for writting tweets from weird and obscure hardware that can run Python (RaspberryPis, phones running Linux etc) so you can easily show off. 
 
