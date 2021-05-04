@@ -20,4 +20,4 @@ This is a very simple Python code that, using the package tweepy, allows you to 
 * Tweepy docs http://docs.tweepy.org/en/latest/index.html 
 * Twitter developers portal https://developer.twitter.com/en/docs 
 
-### Follow my twitter @eli_blazek
+### Follow my twitter @EliB_rarian
